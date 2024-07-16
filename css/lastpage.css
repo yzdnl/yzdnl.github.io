@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+  margin-top: 100px;
+  font-family: "Courier";
+  background-color: #7c97a6;
+  color: #eceff2;
+}
+#thankyou {
+  font-size: 50px;
+  margin-bottom: 30px;
+}
+.rizz {
+  margin-bottom: 25px;
+}
+.button {
+  padding: 10px 20px;
+  font-size: 18px;
+  cursor: pointer;
+  margin: 10px;
+  font-family: "courier";
+  margin-bottom: 20px;
+  background-color: #212a2f;
+  color: #c9cfd8;
+  border-radius: 12px;
+  border: 2px solid #7c97a6;
+  box-shadow: 1px 1px 2px #282e37;
+  transition: 0.3s;
+}
+
+.button:hover {
+  background-color: #445762;
+  color: #c9cfd8;
+  border: 2px solid #7c97a6;
+  box-shadow: 1px 1px 2px #282e37;
+}

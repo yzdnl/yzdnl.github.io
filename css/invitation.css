@@ -1,0 +1,39 @@
+body {
+  text-align: center;
+  margin-top: 100px;
+  font-family: "Courier";
+  background-color: #b4c8d3;
+  color: #262f44;
+}
+
+img {
+  height: 400px;
+  width: auto;
+  padding: 10px;
+}
+
+#InvitationQuestion {
+  font-size: 60px;
+  margin-bottom: 50px;
+}
+.answerButton {
+  padding: 10px 20px;
+  font-size: 25px;
+  cursor: pointer;
+  margin: 10px;
+  font-family: "courier";
+  margin-bottom: 20px;
+  background-color: #1e252d;
+  color: #dce3eb;
+  border-radius: 12px;
+  border: 3px solid #495565;
+  box-shadow: 1px 1px 2px #262b33;
+  transition: 0.3s;
+}
+
+.answerButton:hover {
+  background-color: #1e252d;
+  color: #dce3eb;
+  border: 3px solid #495565;
+  box-shadow: 1px 1px 2px #262b33;
+}
